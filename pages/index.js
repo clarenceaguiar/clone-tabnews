@@ -1,5 +1,5 @@
 function Home () {
-    return <h1>Mirian, amo muito você! Se você me ama, dê um sorriso!&#x1F48C;</h1>
+    return <h1>Sofia, minha linda, amo muito você! Se você também me ama, dê um sorriso!&#128525;</h1>
 }
 
 export default Home;
